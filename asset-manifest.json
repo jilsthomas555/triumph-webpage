@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/triumph-webpage/static/css/main.fcf8efb8.css",
+    "main.js": "/triumph-webpage/static/js/main.cfaf35cc.js",
+    "static/js/453.2e1b8ae7.chunk.js": "/triumph-webpage/static/js/453.2e1b8ae7.chunk.js",
+    "static/media/triumphlogo.jpg": "/triumph-webpage/static/media/triumphlogo.4dbf2e09500576188868.jpg",
+    "index.html": "/triumph-webpage/index.html",
+    "main.fcf8efb8.css.map": "/triumph-webpage/static/css/main.fcf8efb8.css.map",
+    "main.cfaf35cc.js.map": "/triumph-webpage/static/js/main.cfaf35cc.js.map",
+    "453.2e1b8ae7.chunk.js.map": "/triumph-webpage/static/js/453.2e1b8ae7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcf8efb8.css",
+    "static/js/main.cfaf35cc.js"
+  ]
+}
